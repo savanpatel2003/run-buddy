@@ -1,4 +1,18 @@
 .hero {
+    margin: 30px;
+    background-color: white;
+    font-size: 20px;
+    color: blue;
+}
+.hero-secondary {
+    background-color: black;      
+    color: red;
+}
+
+
+
+
+.hero {
     background-position: bottom;
     height: auto;
     text-align: center;
